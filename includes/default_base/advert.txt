@@ -1,0 +1,16 @@
+fbclid
+gclid
+yclid
+ysclid
+rdt_cid
+msclkid
+utm_source
+utm_medium
+utm_campaign
+utm_term
+utm_content
+campaign.name
+adSet.name
+campaign.id
+adSet.id
+ad.id
